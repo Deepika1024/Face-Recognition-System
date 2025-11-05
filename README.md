@@ -22,4 +22,4 @@ pip install -r requirements.txt
 
 **Run**
 <pre>'python attendance.py'</pre>
-> Press ==q== to quit the webcam window.
+> Press q to quit the webcam window.
