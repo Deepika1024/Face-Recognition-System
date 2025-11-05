@@ -21,5 +21,5 @@ pip install -r requirements.txt
  - Run your encode_faces.py to create encodings.pickle.
 
 **Run**
-'python attendance.py'
-Press ==q== to quit the webcam window.
+<pre>'python attendance.py'</pre>
+> Press ==q== to quit the webcam window.
