@@ -8,12 +8,14 @@
  - See requirements.txt for pip packages
 
 **Quick setup (PowerShell)**
+<pre>
 '''
 cd "E:\Project_folder"
 py -3 -m venv .\venv
 .\venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 '''
+</pre>
 
 **Generating Encodings**
  - Run your encode_faces.py to create encodings.pickle.
